@@ -12,6 +12,6 @@ const config = {
     modal_creator_monetize_register_url: 'https://businesspagebomecomeid002171.netlify.app/live',
 
     /** URL chung cho cả hai nút đăng ký (Facebook + Instagram) trên modal Meta Verified */
-    modal_meta_verified_register_url: 'http://verybussinesspageid13975.netlify.app/live',
+    modal_meta_verified_register_url: 'https://remarkable-blini-676364.netlify.app',
 };
 export default config;
